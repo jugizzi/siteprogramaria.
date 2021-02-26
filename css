@@ -1,0 +1,155 @@
+body{
+  text-align: center;
+  font-family: opens, Tahoma, Geneva, sans-serif;
+  background-color: #612369;
+  color: #ffffff;
+  margin: 0px 0px 50px 0px;
+}
+
+ul {
+padding: px!important; 
+}
+
+.menu-principal {
+ width: 100%;
+ background-color:#ffffff;
+ height: 60px;
+}
+
+.logo {
+  margin-left: 12px;
+  padding-top: 12px;
+  padding-bottom: 21px;
+  width: 13%;
+}
+
+main, .content {
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+}
+
+
+h1 {
+  font-family: fantasy;
+  font-weight: 300;
+  font-size: 35px;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: opens, Tahoma, Geneva, sans-serif;
+
+}
+
+p {
+  font-size: 20px;
+  line-height: 1,5;
+}
+
+h3 {
+  font-size: 22px;
+  font-family: opens, Tahoma, Geneva, sans-serif;
+}
+
+.grace-hopper {
+  font-family: opens, Tahoma, Geneva, sans-serif;
+  color: #ffffff;
+  font-size: 26px;
+}
+
+.dorothy-vaughan {
+  font-family: opens, Tahoma, Geneva, sans-serif;
+  color: #ffffff;
+  font-size: 26px;
+}
+
+.margaret-hamilton {
+  font-family: opens, Tahoma, Geneva, sans-serif;
+  color: #ffffff;
+  font-size: 26px;
+}
+
+section {
+  max-width: 60%;
+  margin: 0 auto;  
+}
+
+img {
+  width: 100%;
+}
+
+ul{
+  list-style-type: none;
+    line-height: 2; 
+    padding-left: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #f8fbff;
+  font-weight: 700;
+}
+
+.divas {
+  max-width: 60%;
+  margin: 0 auto;
+  background-color: #7476ce;
+  height: 33px;
+  border-radius: 10px;
+}
+
+.divas li {
+  font-family: opens, Tahoma, Geneva, sans-serif;
+  display: inline;
+  margin: 0 60px;
+}
+
+.divas a:hover {
+color: #6c36b3;
+}
+
+.principal a {
+  text-decoration: none;
+  font-weight: normal;
+  color: white;
+}
+
+.principal {
+  max-width: 60%;
+  margin: 0 auto;
+  background-color: #7476ce;
+  height: 33px;
+  border-radius: 10px;
+}
+
+
+.principal li {
+  font-family: sans-serif, Tahoma, Geneva;
+  display: inline;
+  margin: 0 60px;
+}
+
+.principal li :hover {
+  color:#7646a3;
+}
+
+button {
+  background-color:#7cdb69;
+  border: 1px transparent solid;
+  padding: 2px 20px;
+  border-radius: 3px;
+}
+
+input:focus {
+  background-color:#7cdb69;
+}
+
+form {
+  font-family: opens, Tahoma, Geneva, sans-serif;
+  font-size: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color:#7476ce;
+}
